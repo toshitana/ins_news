@@ -10,3 +10,59 @@
 2025-06-24 04:53:57.606931: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/info/
 2025-06-24 04:54:28.994244: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2
 2025-06-24 04:54:50.615221: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html
+2025-06-24 05:31:12.141818: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/corp/profile/news/2025/
+2025-06-24 05:31:15.648721: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/news
+2025-06-24 05:31:17.302161: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/press/
+2025-06-24 05:31:23.671678: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/company/news/2025/
+2025-06-24 05:31:29.863540: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/press_article/2025.html
+2025-06-24 05:31:47.370471: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=1
+2025-06-24 05:32:11.223884: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/press.html
+2025-06-24 05:32:22.509853: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/info/
+2025-06-24 05:32:25.400201: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/messages
+2025-06-24 05:32:26.782996: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/information/
+2025-06-24 05:32:33.309742: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/info/
+2025-06-24 05:32:40.659113: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/news_article/index.html
+2025-06-24 05:32:56.386324: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2
+2025-06-24 05:33:18.645908: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html
+2025-06-24 07:07:46.083519: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/corp/profile/news/2025/
+2025-06-24 07:07:49.445885: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/news
+2025-06-24 07:07:52.646407: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/press/
+2025-06-24 07:07:58.617277: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/company/news/2025/
+2025-06-24 07:08:04.786687: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/press_article/2025.html
+2025-06-24 07:08:22.272079: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=1
+2025-06-24 07:08:46.443687: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/press.html
+2025-06-24 07:08:57.931065: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/info/
+2025-06-24 07:09:00.674064: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/messages
+2025-06-24 07:09:03.226256: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/information/
+2025-06-24 07:09:09.803425: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/info/
+2025-06-24 07:09:18.630269: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/news_article/index.html
+2025-06-24 07:09:35.061182: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2
+2025-06-24 07:09:57.422047: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html
+2025-06-24 07:14:02.370199: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/corp/profile/news/2025/
+2025-06-24 07:14:05.798910: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/news
+2025-06-24 07:14:07.124979: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/press/
+2025-06-24 07:14:12.675544: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/company/news/2025/
+2025-06-24 07:14:19.159369: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/press_article/2025.html
+2025-06-24 07:14:36.856950: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=1
+2025-06-24 07:14:59.646905: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/press.html
+2025-06-24 07:15:09.122169: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/info/
+2025-06-24 07:15:12.024821: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/messages
+2025-06-24 07:15:13.192773: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/information/
+2025-06-24 07:15:18.721823: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/info/
+2025-06-24 07:15:27.033510: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/news_article/index.html
+2025-06-24 07:15:43.694131: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2
+2025-06-24 07:16:05.442419: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html
+2025-06-24 07:18:03.693806: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/corp/profile/news/2025/
+2025-06-24 07:18:06.746703: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/news
+2025-06-24 07:18:07.338470: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/press/
+2025-06-24 07:18:12.804450: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/company/news/2025/
+2025-06-24 07:18:18.425592: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/press_article/2025.html
+2025-06-24 07:18:35.652659: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=1
+2025-06-24 07:18:58.039744: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/press.html
+2025-06-24 07:19:07.946372: Skipped (403 Forbidden) - アフラック生命保険株式会社 - https://www.aflac.co.jp/info/
+2025-06-24 07:19:10.756903: Skipped (Selector Config: SKIPPED_SSL_ERROR) - エヌエヌ生命保険株式会社 - https://www.nnlife.co.jp/company/messages
+2025-06-24 07:19:11.039527: Skipped (Selector Config: SKIPPED_SSL_ERROR) - FWD生命保険株式会社 - https://www.fwdlife.co.jp/information/
+2025-06-24 07:19:17.113500: Skipped (Selector Config: SKIPPED_BLANK_PAGE) - ソニー生命保険株式会社 - https://www.sonylife.co.jp/info/
+2025-06-24 07:19:25.187512: Skipped (Selector Config: SKIPPED_CONTENT_NOT_FOUND) - 太陽生命保険株式会社 - https://www.taiyo-seimei.co.jp/company/notice/news_article/index.html
+2025-06-24 07:19:41.469041: Skipped (Timeout) - 東京海上日動あんしん生命保険株式会社 - https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2
+2025-06-24 07:20:02.272320: Skipped (Timeout) - マニュライフ生命保険株式会社 - https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html

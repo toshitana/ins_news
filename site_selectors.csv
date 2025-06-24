@@ -1,8 +1,8 @@
 会社名,ニュースリスト親要素セレクタ,記事タイトルセレクタ,日付セレクタ,記事リンクセレクタ
-アクサ生命保険株式会社,div.cmp-news__list > ul > li,div.cmp-news__body > p.cmp-news__text,time.cmp-news__date,div.cmp-news__body > p.cmp-news__text > a
-朝日生命保険相互会社,div.mainContents > ul > li,p.link > a,p.date,p.link > a
-イオン・アリアンツ生命保険株式会社,main.mainContents_body > section > ul.linkList01.arrow > li,a,span.date,a
-ＳＢＩ生命保険株式会社,div.pressList > dl,dt > a,dt > span.date,dt > a
+アクサ生命保険株式会社,div.cmp-news__list > ul > li,p.cmp-news__text > a,time.cmp-news__date,p.cmp-news__text > a
+朝日生命保険相互会社,div.m-mainContents > ul.m-linkList-news > li,a,p.m-txt-date,a
+イオン・アリアンツ生命保険株式会社,ul.linkList01.arrow > li,a,span.date,a
+ＳＢＩ生命保険株式会社,div.pressList > dl,dt + dd > a,dt > span.date,dt + dd > a
 エヌエヌ生命保険株式会社,SKIPPED_SSL_ERROR,,,,
 FWD生命保険株式会社,SKIPPED_SSL_ERROR,,,,
 オリックス生命保険株式会社,div.m-headlineList01 > ul > li,a,span.m-headlineList01__date,a
