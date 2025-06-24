@@ -1,0 +1,38 @@
+会社名,ニュースリスト親要素セレクタ,記事タイトルセレクタ,日付セレクタ,記事リンクセレクタ
+アクサ生命保険株式会社,div.cmp-news__list > ul > li,div.cmp-news__body > p.cmp-news__text,time.cmp-news__date,div.cmp-news__body > p.cmp-news__text > a
+朝日生命保険相互会社,div.mainContents > ul > li,p.link > a,p.date,p.link > a
+イオン・アリアンツ生命保険株式会社,main.mainContents_body > section > ul.linkList01.arrow > li,a,span.date,a
+ＳＢＩ生命保険株式会社,div.pressList > dl,dt > a,dt > span.date,dt > a
+エヌエヌ生命保険株式会社,SKIPPED_SSL_ERROR,,,,
+FWD生命保険株式会社,SKIPPED_SSL_ERROR,,,,
+オリックス生命保険株式会社,div.m-headlineList01 > ul > li,a,span.m-headlineList01__date,a
+カーディフ生命保険株式会社,div.card-horizontal,div.card-title > a,div.card-publication-date,div.card-title > a
+株式会社かんぽ生命保険,div.m-mainArea-contents.-press > ul > li,a.m-link-pdf,time,a.m-link-pdf
+クレディ・アグリコル生命保険株式会社,div.mainContents > div.section > dl,dt > a,dt > span.date,dt > a
+ジブラルタ生命保険株式会社,div.newsReleaseList > ul > li,p.newsReleaseList__txt > a,p.newsReleaseList__date,p.newsReleaseList__txt > a
+住友生命保険相互会社,div.newsReleaseList > ul > li,a,span.date,a
+ソニー生命保険株式会社,SKIPPED_BLANK_PAGE,,,,
+SOMPOひまわり生命保険株式会社,div.c-list-news > ul > li,a.c-list-news__link,span.c-list-news__date,a.c-list-news__link
+第一生命保険株式会社,body > ul > li,a,REGEX_DATE:\d{4}/\d{2}/\d{2},a
+第一フロンティア生命保険株式会社,div.link-list-a > ul > li,a,span.date,a
+大樹生命保険株式会社（旧三井生命保険株式会社）,div.newsList > ul > li,a,REGEX_DATE:\d{4}\.\d{2}\.\d{2},a
+大同生命保険株式会社,div.m-newsList__item,a,span.m-newsList__date,a
+太陽生命保険株式会社,SKIPPED_CONTENT_NOT_FOUND,,,,
+チューリッヒ生命保険株式会社,ul.c-list-news > li,a.c-list-news__link,span.c-list-news__date,a.c-list-news__link
+Ｔ＆Ｄフィナンシャル生命保険株式会社,div.sectionArea > ul > li,a,REGEX_DATE:\d{4}\.\d{2}\.\d{2},a
+なないろ生命保険株式会社,div.newsList01 > article.newsItem,a.newsTitle,time.newsTime,a.newsTitle
+ニッセイ・ウェルス生命保険株式会社,div.link-list.js-target.is-show > ul > li,a,time,a
+日本生命保険相互会社,div.newsReleaseList > ul > li,a,REGEX_DATE:\d{4}年\d{2}月\d{2}日,a
+ネオファースト生命保険株式会社,ul.linkList > li,a,time,a
+はなさく生命保険株式会社,div#news > ul > li,a,span.date,a
+富国生命保険相互会社,div.n-newsList__item,a,time,a
+フコクしんらい生命保険株式会社,div.newsReleaseList > ul > li,a,time,a
+プルデンシャル生命保険株式会社,div.mod-pressRelease-item,a,span.date,a
+ＰＧＦ生命（プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社）,div.newsRelease-list > ul > li,a,span.date,a
+三井住友海上あいおい生命保険株式会社,div.linklist-type01 > ul > li,a,REGEX_DATE:\d{4}年\d{2}月\d{2}日,a
+三井住友海上プライマリー生命保険株式会社,div.link-listB01 > ul > li,a,span.date,a
+みどり生命保険株式会社,div.information-list > dl,dt > a,dt > time,dt > a
+明治安田生命保険相互会社,div.section-body > ul.link-list > li,a,REGEX_DATE:\d{4}/\d{2}/\d{2},a
+メットライフ生命保険株式会社,div.press-release-list__item,a,span.press-release-list__date,a
+ライフネット生命保険株式会社,div.news-list-item,a.news-list-item__link,time.news-list-item__date,a.news-list-item__link
+楽天生命保険株式会社,ul.list--news > li,a,span.date,a
