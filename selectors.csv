@@ -1,0 +1,81 @@
+company,url,item_selector,link_selector
+アクサ生命保険株式会社,https://www.axa.co.jp/news/2025,#canvas li,li a
+朝日生命保険相互会社,https://www.asahi-life.co.jp/company/newsrelease/index.html,#block0 .index_module ul li,div.item_icon a
+イオン・アリアンツ生命保険株式会社,https://www.aeon-allianz.co.jp/press/,.notice__item,a.notice__txt
+ＳＢＩ生命保険株式会社,https://www.sbilife.co.jp/corporate/press/,ul.newsListA01 > li,span.body > a
+オリックス生命保険株式会社,https://www.orixlife.co.jp/about/news/,.list-news-02 li,a.txt
+カーディフ生命保険株式会社,https://life.cardif.co.jp/company/news/newsrelease,a.news-item,:scope
+株式会社かんぽ生命保険,https://www.jp-life.japanpost.jp/information/press/index.html,ul.link__blocks_thin li,a
+クレディ・アグリコル生命保険株式会社,https://www.ca-life.jp/news/,div.section dl.date dt,../dd/a
+ジブラルタ生命保険株式会社,https://www.gib-life.co.jp/st/about/news/,ul li,a
+住友生命保険相互会社,https://www.sumitomolife.co.jp/about/newsrelease/2025.html,ul.list-news-01 > li,a
+ソニー生命保険株式会社,https://www.sonylife.co.jp/company/news/2025/,li.l-header__catenav__item,a
+SOMPOひまわり生命保険株式会社,https://www.himawari-life.co.jp/company/news/2025/,.newsList li,a._link
+第一生命保険株式会社,https://www.dai-ichi-life.co.jp/company/news/index.html,div.news_all ul.textLink li,a
+第一フロンティア生命保険株式会社,https://www.d-frontier-life.co.jp/corporate/release/index.html,,
+大樹生命保険株式会社（旧三井生命保険株式会社）,https://www.taiju-life.co.jp/corporate/news/,.news-release__list-item,.news-release__list-item-anchor
+大同生命保険株式会社,https://www.daido-life.co.jp/company/news/2025/,ul.column.column3 li,a
+太陽生命保険株式会社,https://www.taiyo-seimei.co.jp/company/notice/press_article/2025.html,dl.news.js-press,dt a
+チューリッヒ生命保険株式会社,https://www.zurichlife.co.jp/aboutus/pressrelease/2025,.m-list-news__item,.m-list-news__link
+Ｔ＆Ｄフィナンシャル生命保険株式会社,https://www.tdf-life.co.jp/newsrelease/,.list-info-01 li,a
+東京海上日動あんしん生命保険株式会社,https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=1,,
+なないろ生命保険株式会社,https://www.nanairolife.co.jp/news/category/news-cat/,#news .l-main .l-gnav__item,a.l-gnav__item-link
+ニッセイ・ウェルス生命保険株式会社,https://www.nw-life.co.jp/news/release/,.tpl-news-list__list .item,a
+日本生命保険相互会社,https://www.nissay.co.jp/news/,table.tbl-news-01 tr,td div a
+ネオファースト生命保険株式会社,https://neofirst.co.jp/information/news/2025/,.news__article,a
+はなさく生命保険株式会社,https://www.life8739.co.jp/news/information,li.news-item,a
+富国生命保険相互会社,https://www.fukoku-life.co.jp/about/news/,.p-newsList__item,.c-link-list-2__item > a
+フコクしんらい生命保険株式会社,https://www.fukokushinrai.co.jp/company/news/,ul.box-information__list--company > li,a
+プルデンシャル生命保険株式会社,https://www.prudential.co.jp/press/,.news__article,a
+ＰＧＦ生命（プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社）,https://www.pgf-life.co.jp/company/news/,ul > li,a
+マニュライフ生命保険株式会社,https://www.manulife.co.jp/ja/individual/about/newsrelease/press.html,ul.cmp-navigation__japan-group li,a
+三井住友海上あいおい生命保険株式会社,https://www.msa-life.co.jp/news/,table.commconTbl.news tbody tr,td a
+三井住友海上プライマリー生命保険株式会社,https://www.ms-primary.com/news/ir/2025/,.news__article,a
+みどり生命保険株式会社,https://midori-life.com/information/,.list .list_box,figcaption.txt > a
+メットライフ生命保険株式会社,https://www.metlife.co.jp/about/press/,ul.news-list > li,a
+メディケア生命保険株式会社,https://news.medicarelife.com/release/,ul.list-news-a > li,.title-wrapper .title a
+ライフネット生命保険株式会社,https://www.lifenet-seimei.co.jp/newsrelease/,#news-wrap .News-list__item,a.News-list__ttl
+楽天生命保険株式会社,https://www.rakuten-life.co.jp/about/news/,select#news_year option,option
+アクサ生命保険株式会社,https://www.axa.co.jp/info/2025,#canvas li,a
+朝日生命保険相互会社,https://www.asahi-life.co.jp/company/oshirase/index.html,#contents_inner .index_module ul li,div.text a
+イオン・アリアンツ生命保険株式会社,https://www.aeon-allianz.co.jp/news/,.notice__item,a.notice__txt
+ＳＢＩ生命保険株式会社,https://www.sbilife.co.jp/corporate/information/,ul.newsListA01 > li,span.body.iconPdf > a
+オリックス生命保険株式会社,https://www.orixlife.co.jp/about/notice/,.list-news-02 li,a.txt
+カーディフ生命保険株式会社,https://life.cardif.co.jp/company/information/release,a.news-item,a.news-item
+株式会社かんぽ生命保険,https://www.jp-life.japanpost.jp/information/news/,ul.link__blocks_thin li,a
+クレディ・アグリコル生命保険株式会社,https://www.ca-life.jp/news/topics.html,dl.date dt,following-sibling::dd/a
+ジブラルタ生命保険株式会社,https://www.gib-life.co.jp/st/about/notice/,ul > li,a
+住友生命保険相互会社,https://www.sumitomolife.co.jp/infolist/,ul.header-drop-list > li.header-drop-list-item,a.header-drop-list-hdg
+ソニー生命保険株式会社,https://www.sonylife.co.jp/info/,li.l-header__catenav__item,a
+SOMPOひまわり生命保険株式会社,https://www.himawari-life.co.jp/company/topics/2025/,.newsList ._body ul li,a._link
+第一生命保険株式会社,https://www.dai-ichi-life.co.jp/information/notice.html,ul.textNews > li,p.textNews-title > a
+大樹生命保険株式会社（旧三井生命保険株式会社）,https://www.taiju-life.co.jp/news.htm,.news-release__list-item,.news-release__list-item-anchor
+大同生命保険株式会社,https://www.daido-life.co.jp/company/important/,.news-list__item,.news-list__item__link > .news-list__item__link__text > a
+大同生命保険株式会社,https://www.daido-life.co.jp/company/info/,div.news-list__item,span.news-list__item__ttl__link > span.news-list__item__ttl__link__text > a
+太陽生命保険株式会社,https://www.taiyo-seimei.co.jp/company/notice/news_article/index.html,div.news_topics.js-news-topics ul li,a
+チューリッヒ生命保険株式会社,https://www.zurichlife.co.jp/received/2025,.m-list-news__item,.m-list-news__link
+東京海上日動あんしん生命保険株式会社,https://www2.tmn-anshin.co.jp/system3/contents/contents.asp?category=2,,
+なないろ生命保険株式会社,https://www.nanairolife.co.jp/news/category/information-cat/,#news .l-main .l-gnav__list > li,a.l-gnav__item-link
+ニッセイ・ウェルス生命保険株式会社,https://www.nw-life.co.jp/news/info/index.html,.tpl-news-list__list .item,a
+日本生命保険相互会社,https://www.nissay.co.jp/topics/,table.tbl-news-01 tr,td div a
+富国生命保険相互会社,https://www.fukoku-life.co.jp/about/information/,.p-newsList__item,.c-link-list-2__tiem > a
+フコクしんらい生命保険株式会社,https://www.fukokushinrai.co.jp/company/topics/,div.box-information__list h3,p a
+プルデンシャル生命保険株式会社,https://www.prudential.co.jp/news/,.news__article,a
+ＰＧＦ生命（プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社）,https://www.pgf-life.co.jp/company/notice/,ul > li,a
+マニュライフ生命保険株式会社,https://www.manulife.co.jp/ja/individual/about/newsrelease/news.html,ul.cmp-navigation__japan-group li,a
+三井住友海上あいおい生命保険株式会社,https://www.msa-life.co.jp/topics/,ul.header-link-list li,a.header-link-list__type
+三井住友海上プライマリー生命保険株式会社,https://www.ms-primary.com/news/info/2025/,.news__article,a
+メットライフ生命保険株式会社,https://www.metlife.co.jp/about/info/,ul.news-list > li,a
+メディケア生命保険株式会社,https://news.medicarelife.com/info/,ul.list-news-a > li,.title-wrapper .title a
+ライフネット生命保険株式会社,https://www.lifenet-seimei.co.jp/profile/information/,#news-wrap .js-toggle-item,a
+楽天生命保険株式会社,https://www.rakuten-life.co.jp/about/topics/?l-id=about_news_about_topics,option,@value
+アフラック生命保険株式会社,https://www.aflac.co.jp/corp/profile/news/2025/,div.news > article.news__article,a
+エヌエヌ生命保険株式会社,https://www.nnlife.co.jp/company/news,table.pbWhatsnewTable tr,a
+FWD生命保険株式会社,https://www.fwdlife.co.jp/press/,,
+明治安田生命保険相互会社,https://www.meijiyasuda.co.jp/profile/news/release/,ul.p-news-list--2 > li,a.p-news-list__item
+明治安田生命保険相互会社,https://www.meijiyasuda.co.jp/profile/news/topics/,ul.p-news-list--2 > li,a.p-news-list__item
+ネオファースト生命保険株式会社,https://neofirst.co.jp/information/info/,div.news > article.news__article,a[class^="news__type"]
+エヌエヌ生命保険株式会社,https://www.nnlife.co.jp/company/messages,table.pbWhatsnewTable tr,a
+FWD生命保険株式会社,https://www.fwdlife.co.jp/information/,,
+アフラック生命保険株式会社,https://www.aflac.co.jp/info/,ul.toipcsFlex > li,a
+第一フロンティア生命保険株式会社,https://www.d-frontier-life.co.jp/corporate/news/index.html,section.archive ul > li,a
